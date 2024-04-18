@@ -60,6 +60,7 @@ To access the course notes and materials:
 ## Additional Resources
 - DataCamp Course - [DataCamp: Quantitative Risk Management course](https://www.datacamp.com/courses/quantitative-risk-management)
 - MITOpenCourseware - [Maths for Quant Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+- Warwick Finance Society - [WFS Quant Finance](https://warwickquantfinance.com/) for a more comprehensive source. Hot tips: Check their Brainteasers
 
 - Books:
   1. Mathematics and Statitics for Financial Risk Mangement by Micheal B. Miller, 
