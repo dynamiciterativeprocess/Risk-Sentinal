@@ -58,13 +58,15 @@ To access the course notes and materials:
 - Required Python packages: NumPy, Pandas, Matplotlib, SciPy, etc.
 
 ## Additional Resources
-DataCamp Course - [DataCamp: Quantitative Risk Management course](https://www.datacamp.com/courses/quantitative-risk-management)
-MITOpenCourseware - 
+- DataCamp Course - [DataCamp: Quantitative Risk Management course](https://www.datacamp.com/courses/quantitative-risk-management)
+- MITOpenCourseware - [Maths for Quant Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+
 - Books:
   1. Mathematics and Statitics for Financial Risk Mangement by Micheal B. Miller, 
   2. Quantitative Financial Risk Management by Micheal B. Miller, Wiley 2019
   3. The Quantitative Risk Management excercise book by Marius Hofert, Rudiger Frey 
       and Alexander F. McNeil, Princeton 2020. 
+
 - Websites:
   1. [Open Quant](https://openquant.co/) for Brainteasers, Jobs & much more
   2. [Matlab](https://ch.mathworks.com/campaigns/offers/modeling-financial-risk-with-matlab.html) for Modeling Financial Risk using MATLab. 
