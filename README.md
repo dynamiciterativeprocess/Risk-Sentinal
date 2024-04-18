@@ -1,64 +1,72 @@
-Risk-Sentry (Quantitative Risk Management Course Notes)
+# Risk-Sentry: Quantitative Risk Management Course Notes
 
 Welcome to the repository for my DataCamp course notes on Quantitative Risk Management! This repository contains comprehensive notes, code snippets, and resources from the course to help you understand and apply quantitative techniques in risk management.
 
-Course Overview
+## Course Overview
 Quantitative risk management is an essential aspect of modern finance and business operations. This course covers various quantitative methods used to measure, analyze, and manage risk in financial markets and beyond. From probability theory to advanced risk modeling techniques, you will gain a solid foundation in quantitative risk management principles.
 
-Contents
-Introduction to Risk Management
-Basic concepts of risk
-Types of risk
-Importance of risk management
-Probability Theory for Risk Management
-Probability distributions
-Expected value and variance
-Probability density functions
-Statistical Methods for Risk Analysis
-Descriptive statistics
-Correlation and covariance
-Hypothesis testing
-Value at Risk (VaR)
-Definition and interpretation
-Parametric VaR
-Historical simulation VaR
-Expected Shortfall (ES)
-Concept of ES
-Calculation methods
-Comparison with VaR
-Risk Models
-Capital Asset Pricing Model (CAPM)
-Multifactor models
-Credit risk models
-Extreme Value Theory (EVT)
-Basics of EVT
-Applications in risk management
-Tail risk estimation
-Stress Testing
-Purpose and methodology
-Scenario analysis
-Stress testing in practice
-Getting Started
+## Contents
+1. **Introduction to Risk Management**
+   - Basic concepts of risk
+   - Types of risk
+   - Importance of risk management
+
+2. **Probability Theory for Risk Management**
+   - Probability distributions
+   - Expected value and variance
+   - Probability density functions
+
+3. **Statistical Methods for Risk Analysis**
+   - Descriptive statistics
+   - Correlation and covariance
+   - Hypothesis testing
+
+4. **Value at Risk (VaR)**
+   - Definition and interpretation
+   - Parametric VaR
+   - Historical simulation VaR
+
+5. **Expected Shortfall (ES)**
+   - Concept of ES
+   - Calculation methods
+   - Comparison with VaR
+
+6. **Risk Models**
+   - Capital Asset Pricing Model (CAPM)
+   - Multifactor models
+   - Credit risk models
+
+7. **Extreme Value Theory (EVT)**
+   - Basics of EVT
+   - Applications in risk management
+   - Tail risk estimation
+
+8. **Stress Testing**
+   - Purpose and methodology
+   - Scenario analysis
+   - Stress testing in practice
+
+## Getting Started
 To access the course notes and materials:
+1. Clone this repository to your local machine using:
 
-Clone this repository to your local machine using:
-bash
+2. Explore the notes and code files in your preferred text editor or Jupyter Notebook environment.
 
-git clone https://github.com/yourusername/quantitative-risk-management.git
-Explore the notes and code files in your preferred text editor or Jupyter Notebook environment.
-Dependencies
-Python 3.x
-Jupyter Notebook (optional but recommended)
-Required Python packages: NumPy, Pandas, Matplotlib, SciPy, etc.
-Additional Resources
-DataCamp: Link to the Quantitative Risk Management course
-Books: Recommended readings on quantitative finance and risk management
-Websites: Links to relevant articles, blogs, and academic papers
-Contributions
+## Dependencies
+- Python 3.x
+- Jupyter Notebook (optional but recommended)
+- Required Python packages: NumPy, Pandas, Matplotlib, SciPy, etc.
+
+## Additional Resources
+- [DataCamp: Quantitative Risk Management course](https://www.datacamp.com/courses/quantitative-risk-management)
+- Books: Recommended readings on quantitative finance and risk management
+- Websites: Links to relevant articles, blogs, and academic papers
+
+## Contributions
 If you find any errors or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome and encouraged!
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-Acknowledgments
+## Acknowledgments
 Special thanks to DataCamp for providing the course materials and inspiration for this repository.
