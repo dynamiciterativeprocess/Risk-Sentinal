@@ -70,3 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 Special thanks to DataCamp for providing the course materials and inspiration for this repository.
+
+## Repo Name Generated via Brand Crowd 
+[Brand Crowd](https://www.brandcrowd.com/business-name-generator/tag/repository)
