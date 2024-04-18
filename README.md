@@ -1,4 +1,4 @@
-# Risk-Sentry: Quantitative Risk Management Course Notes
+# Risk-Sentinal: Quantitative Risk Management Course Notes
 
 Welcome to the repository for my DataCamp course notes on Quantitative Risk Management! This repository contains comprehensive notes, code snippets, and resources from the course to help you understand and apply quantitative techniques in risk management.
 
