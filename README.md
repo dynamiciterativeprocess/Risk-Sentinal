@@ -3,7 +3,7 @@
 Welcome to the repository for my DataCamp course notes on Quantitative Risk Management! This repository contains comprehensive notes, code snippets, and resources from the course to help you understand and apply quantitative techniques in risk management.
 
 ## Course Overview
-Quantitative risk management is an essential aspect of modern finance and business operations. This course covers various quantitative methods used to measure, analyze, and manage risk in financial markets and beyond. From probability theory to advanced risk modeling techniques, you will gain a solid foundation in quantitative risk management principles.
+Quantitative risk management is an essential aspect of modern finance and business operations. This course covers various quantitative methods used to measure, analyse, and manage risk in financial markets and beyond. From probability theory to advanced risk modeling techniques, you will gain a solid foundation in quantitative risk management principles.
 
 ## Contents
 1. **Introduction to Risk Management**
@@ -58,9 +58,16 @@ To access the course notes and materials:
 - Required Python packages: NumPy, Pandas, Matplotlib, SciPy, etc.
 
 ## Additional Resources
-- [DataCamp: Quantitative Risk Management course](https://www.datacamp.com/courses/quantitative-risk-management)
-- Books: Recommended readings on quantitative finance and risk management
-- Websites: Links to relevant articles, blogs, and academic papers
+DataCamp Course - [DataCamp: Quantitative Risk Management course](https://www.datacamp.com/courses/quantitative-risk-management)
+MITOpenCourseware - 
+- Books:
+  1. Mathematics and Statitics for Financial Risk Mangement by Micheal B. Miller, 
+  2. Quantitative Financial Risk Management by Micheal B. Miller, Wiley 2019
+  3. The Quantitative Risk Management excercise book by Marius Hofert, Rudiger Frey 
+      and Alexander F. McNeil, Princeton 2020. 
+- Websites:
+  1. [Open Quant](https://openquant.co/) for Brainteasers, Jobs & much more
+  2. [Matlab](https://ch.mathworks.com/campaigns/offers/modeling-financial-risk-with-matlab.html) for Modeling Financial Risk using MATLab. 
 
 ## Contributions
 If you find any errors or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome and encouraged!
