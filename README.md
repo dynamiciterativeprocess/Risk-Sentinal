@@ -70,7 +70,8 @@ To access the course notes and materials:
 
 - Websites:
   1. [Open Quant](https://openquant.co/) for Brainteasers, Jobs & much more
-  2. [Matlab](https://ch.mathworks.com/campaigns/offers/modeling-financial-risk-with-matlab.html) for Modeling Financial Risk using MATLab. 
+  2. [Matlab](https://ch.mathworks.com/campaigns/offers/modeling-financial-risk-with-matlab.html) for Modeling Financial Risk using MATLab.
+  3. [Professor William Sharpe: Macro-Investment Analysis Webpage](https://web.stanford.edu/~wfsharpe/mia/mia.htm) 
 
 ## Contributions
 If you find any errors or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome and encouraged!
